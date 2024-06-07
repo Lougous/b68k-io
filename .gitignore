@@ -1,7 +1,6 @@
 *~
 *.kicad_prl
 
-glue/db/
-glue/incremental_db/
-glue/output_files/
-glue/simulation/
+board/fp-info-cache
+board/io-backups/
+
