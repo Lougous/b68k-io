@@ -4,3 +4,6 @@
 board/fp-info-cache
 board/io-backups/
 
+pic/nbproject/Makefile-*
+pic/nbproject/Package-default.bash
+pic/nbproject/private
